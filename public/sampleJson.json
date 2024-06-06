@@ -1,0 +1,990 @@
+{
+  "id": "665dbc245de30077ae6ccde9",
+  "shopId": "5a45088e697df11c10709c21",
+  "machineName": "US-BT-SW",
+  "availableEquipment": {
+    "offsetPresses": [
+      {
+        "name": "Heidelberg XL 106 8 color",
+        "purchaseCost": 4500000.0,
+        "usefulLifeMonths": 60,
+        "monthlyRuntimeHours": 168,
+        "runtimeRatio": 0.8,
+        "equipmentMaintenanceRatio": 0.03,
+        "serverMaintenanceRatio": 0.05,
+        "makeReadyTimeMinutes": 20,
+        "labourCosts": [
+          {
+            "role": "Offset Press large",
+            "hourlyRate": 48.0,
+            "benefitsRatio": 0.28,
+            "cost": 61.44
+          },
+          {
+            "role": "Offset Press Small",
+            "hourlyRate": 35.0,
+            "benefitsRatio": 0.28,
+            "cost": 44.8
+          }
+        ],
+        "colours": 8,
+        "platesCostPerColour": 25.0,
+        "inkCostPerSheet": 7.0e-4,
+        "sheetsPerHour": 14000,
+        "totalCostPerThousandPressSheets": 43.0484693877551,
+        "labourCostPerThousandPressSheets": 7.588571428571428,
+        "totalHourlyCost": 602.6785714285713,
+        "hourlyLabourCost": 106.24,
+        "monthlyEquipmentCost": 75000.0,
+        "hourlyEquipmentCost": 558.0357142857142,
+        "makeReadyCost": 186.01190476190473,
+        "hourlyEquipmentMaintenanceCost": 16.741071428571427,
+        "hourlyServerMaintenanceCost": 27.90178571428571,
+        "monthlyEquipmentMaintenanceCost": 2250.0,
+        "monthlyServerMaintenanceCost": 3750.0
+      },
+      {
+        "name": "Heidelberg XL 8 color LED UV Roll",
+        "purchaseCost": 6500000.0,
+        "usefulLifeMonths": 60,
+        "monthlyRuntimeHours": 168,
+        "runtimeRatio": 0.8,
+        "equipmentMaintenanceRatio": 0.03,
+        "serverMaintenanceRatio": 0.05,
+        "makeReadyTimeMinutes": 6,
+        "labourCosts": [
+          {
+            "role": "Offset Press large",
+            "hourlyRate": 48.0,
+            "benefitsRatio": 0.28,
+            "cost": 61.44
+          },
+          {
+            "role": "Offset Press Small",
+            "hourlyRate": 35.0,
+            "benefitsRatio": 0.28,
+            "cost": 44.8
+          }
+        ],
+        "colours": 8,
+        "platesCostPerColour": 25.0,
+        "inkCostPerSheet": 7.0e-4,
+        "sheetsPerHour": 15206,
+        "totalCostPerThousandPressSheets": 57.24948798406644,
+        "labourCostPerThousandPressSheets": 6.986715770090753,
+        "totalHourlyCost": 870.5357142857142,
+        "hourlyLabourCost": 106.24,
+        "monthlyEquipmentCost": 108333.33333333333,
+        "hourlyEquipmentCost": 806.0515873015872,
+        "makeReadyCost": 80.60515873015873,
+        "hourlyEquipmentMaintenanceCost": 24.181547619047617,
+        "hourlyServerMaintenanceCost": 40.30257936507937,
+        "monthlyEquipmentMaintenanceCost": 3249.9999999999995,
+        "monthlyServerMaintenanceCost": 5416.666666666667
+      },
+      {
+        "name": "Heidelberg XL106 4 color W coater",
+        "purchaseCost": 2000000.0,
+        "usefulLifeMonths": 81,
+        "monthlyRuntimeHours": 168,
+        "runtimeRatio": 0.8,
+        "equipmentMaintenanceRatio": 0.03,
+        "serverMaintenanceRatio": 0.05,
+        "makeReadyTimeMinutes": 8,
+        "labourCosts": [
+          {
+            "role": "Offset Press Small",
+            "hourlyRate": 35.0,
+            "benefitsRatio": 0.28,
+            "cost": 44.8
+          },
+          {
+            "role": "Press Helper",
+            "hourlyRate": 25.0,
+            "benefitsRatio": 0.28,
+            "cost": 32.0
+          }
+        ],
+        "colours": 4,
+        "platesCostPerColour": 18.0,
+        "inkCostPerSheet": 7.0e-4,
+        "sheetsPerHour": 14000,
+        "totalCostPerThousandPressSheets": 14.172335600907031,
+        "labourCostPerThousandPressSheets": 5.485714285714286,
+        "totalHourlyCost": 198.41269841269843,
+        "hourlyLabourCost": 76.8,
+        "monthlyEquipmentCost": 24691.35802469136,
+        "hourlyEquipmentCost": 183.71546149323927,
+        "makeReadyCost": 24.495394865765235,
+        "hourlyEquipmentMaintenanceCost": 5.511463844797178,
+        "hourlyServerMaintenanceCost": 9.185773074661965,
+        "monthlyEquipmentMaintenanceCost": 740.7407407407408,
+        "monthlyServerMaintenanceCost": 1234.5679012345681
+      }
+    ],
+    "foldingMachines": [
+      {
+        "name": "Stahl TH82P Fld",
+        "purchaseCost": 800000.0,
+        "usefulLifeMonths": 60,
+        "monthlyRuntimeHours": 163,
+        "runtimeRatio": 1.0,
+        "equipmentMaintenanceRatio": 0.0,
+        "serverMaintenanceRatio": 0.0,
+        "makeReadyTimeMinutes": 15,
+        "labourCosts": [
+          {
+            "role": "Machine Operator 3",
+            "hourlyRate": 18.65,
+            "benefitsRatio": 0.28,
+            "cost": 23.872
+          }
+        ],
+        "unitsPerHour": 14400,
+        "totalHourlyCost": 81.79959100204499,
+        "hourlyLabourCost": 23.872,
+        "monthlyEquipmentCost": 13333.333333333334,
+        "hourlyEquipmentCost": 81.79959100204499,
+        "makeReadyCost": 20.449897750511248,
+        "hourlyEquipmentMaintenanceCost": 0.0,
+        "hourlyServerMaintenanceCost": 0.0,
+        "monthlyEquipmentMaintenanceCost": 0.0,
+        "monthlyServerMaintenanceCost": 0.0
+      },
+      {
+        "name": "Stahl TI52",
+        "purchaseCost": 250000.0,
+        "usefulLifeMonths": 60,
+        "monthlyRuntimeHours": 168,
+        "runtimeRatio": 1.0,
+        "equipmentMaintenanceRatio": 0.0,
+        "serverMaintenanceRatio": 0.0,
+        "makeReadyTimeMinutes": 10,
+        "labourCosts": [
+          {
+            "role": "Machine Operator 2",
+            "hourlyRate": 13.79,
+            "benefitsRatio": 0.28,
+            "cost": 17.6512
+          }
+        ],
+        "unitsPerHour": 6000,
+        "totalHourlyCost": 24.801587301587304,
+        "hourlyLabourCost": 17.6512,
+        "monthlyEquipmentCost": 4166.666666666667,
+        "hourlyEquipmentCost": 24.801587301587304,
+        "makeReadyCost": 4.133597883597884,
+        "hourlyEquipmentMaintenanceCost": 0.0,
+        "hourlyServerMaintenanceCost": 0.0,
+        "monthlyEquipmentMaintenanceCost": 0.0,
+        "monthlyServerMaintenanceCost": 0.0
+      }
+    ],
+    "bindingMachines": [
+      {
+        "name": "Mueller Allegro",
+        "purchaseCost": 3000000.0,
+        "usefulLifeMonths": 60,
+        "monthlyRuntimeHours": 167,
+        "runtimeRatio": 1.0,
+        "equipmentMaintenanceRatio": 0.0,
+        "serverMaintenanceRatio": 0.0,
+        "makeReadyTimeMinutes": 15,
+        "labourCosts": [
+          {
+            "role": "Machine Operator 2",
+            "hourlyRate": 13.79,
+            "benefitsRatio": 0.28,
+            "cost": 17.6512
+          }
+        ],
+        "bindingType": "PUR",
+        "unitsPerHour": 2497,
+        "totalHourlyCost": 299.4011976047904,
+        "hourlyLabourCost": 17.6512,
+        "monthlyEquipmentCost": 50000.0,
+        "hourlyEquipmentCost": 299.4011976047904,
+        "makeReadyCost": 74.8502994011976,
+        "hourlyEquipmentMaintenanceCost": 0.0,
+        "hourlyServerMaintenanceCost": 0.0,
+        "monthlyEquipmentMaintenanceCost": 0.0,
+        "monthlyServerMaintenanceCost": 0.0
+      },
+      {
+        "name": "Mueller Primera PRO",
+        "purchaseCost": 1500000.0,
+        "usefulLifeMonths": 120,
+        "monthlyRuntimeHours": 168,
+        "runtimeRatio": 1.0,
+        "equipmentMaintenanceRatio": 0.0,
+        "serverMaintenanceRatio": 0.0,
+        "makeReadyTimeMinutes": 35,
+        "labourCosts": [
+          {
+            "role": "Machine Operator 2",
+            "hourlyRate": 13.79,
+            "benefitsRatio": 0.28,
+            "cost": 17.6512
+          }
+        ],
+        "bindingType": "STAPLED",
+        "unitsPerHour": 11200,
+        "totalHourlyCost": 74.4047619047619,
+        "hourlyLabourCost": 17.6512,
+        "monthlyEquipmentCost": 12500.0,
+        "hourlyEquipmentCost": 74.4047619047619,
+        "makeReadyCost": 43.40277777777778,
+        "hourlyEquipmentMaintenanceCost": 0.0,
+        "hourlyServerMaintenanceCost": 0.0,
+        "monthlyEquipmentMaintenanceCost": 0.0,
+        "monthlyServerMaintenanceCost": 0.0
+      },
+      {
+        "name": "Hohner HSB9000 6 pocket Saddle",
+        "purchaseCost": 600000.0,
+        "usefulLifeMonths": 36,
+        "monthlyRuntimeHours": 80,
+        "runtimeRatio": 1.0,
+        "equipmentMaintenanceRatio": 0.0,
+        "serverMaintenanceRatio": 0.0,
+        "makeReadyTimeMinutes": 16,
+        "labourCosts": [
+          {
+            "role": "Machine Operator 2",
+            "hourlyRate": 13.79,
+            "benefitsRatio": 0.28,
+            "cost": 17.6512
+          }
+        ],
+        "bindingType": "STAPLED",
+        "unitsPerHour": 10000,
+        "totalHourlyCost": 208.33333333333334,
+        "hourlyLabourCost": 17.6512,
+        "monthlyEquipmentCost": 16666.666666666668,
+        "hourlyEquipmentCost": 208.33333333333334,
+        "makeReadyCost": 55.55555555555556,
+        "hourlyEquipmentMaintenanceCost": 0.0,
+        "hourlyServerMaintenanceCost": 0.0,
+        "monthlyEquipmentMaintenanceCost": 0.0,
+        "monthlyServerMaintenanceCost": 0.0
+      }
+    ]
+  },
+  "pressSheets": [
+    {
+      "width": 20.0,
+      "height": 26.0,
+      "supportedSizes": [
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "US_STANDARD",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "US_ROYAL",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_6_63_X_10_25",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_6_69_X_9_61",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_7_X_9",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_7_X_10",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_7_44_X_9_69",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_7_5_X_9_25",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_8_X_10",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "SQUARE_7_IN",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_8_5_X_11",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_5_X_7",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_5_X_8",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_8_375_X_10_875",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "SQUARE_8_25_IN",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "SQUARE_8_5_IN",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_5_5_X_8_5",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_5_06_X_7_81",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_5_25_X_8",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_5_25_X_8_375",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_5_375_X_8_375",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_8_75_X_11",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": 4,
+          "standardSize": null,
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": 5,
+          "standardSize": null,
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_6_X_9",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_5_8_X_9_25",
+          "pagesPerSheet": 2,
+          "valid": true
+        },
+        {
+          "componentType": "COVER",
+          "dinSize": null,
+          "standardSize": "IN_8_25_X_6",
+          "pagesPerSheet": 2,
+          "valid": true
+        }
+      ],
+      "substrateCosts": [
+        {
+          "substrate": {
+            "typeId": 1,
+            "weightId": 1,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1842
+        },
+        {
+          "substrate": {
+            "typeId": 1,
+            "weightId": 2,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.2172
+        },
+        {
+          "substrate": {
+            "typeId": 1,
+            "weightId": 3,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.239
+        },
+        {
+          "substrate": {
+            "typeId": 2,
+            "weightId": 1,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1842
+        },
+        {
+          "substrate": {
+            "typeId": 2,
+            "weightId": 2,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.2172
+        },
+        {
+          "substrate": {
+            "typeId": 2,
+            "weightId": 3,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.239
+        }
+      ]
+    },
+    {
+      "width": 23.0,
+      "height": 35.0,
+      "supportedSizes": [
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "US_STANDARD",
+          "pagesPerSheet": 16,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "US_ROYAL",
+          "pagesPerSheet": 16,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_6_63_X_10_25",
+          "pagesPerSheet": 16,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_6_69_X_9_61",
+          "pagesPerSheet": 16,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_7_X_9",
+          "pagesPerSheet": 16,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_7_X_10",
+          "pagesPerSheet": 16,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_7_44_X_9_69",
+          "pagesPerSheet": 16,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_7_5_X_9_25",
+          "pagesPerSheet": 16,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_8_X_10",
+          "pagesPerSheet": 16,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "SQUARE_7_IN",
+          "pagesPerSheet": 16,
+          "valid": true
+        }
+      ],
+      "substrateCosts": [
+        {
+          "substrate": {
+            "typeId": 1,
+            "weightId": 7,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1266
+        },
+        {
+          "substrate": {
+            "typeId": 1,
+            "weightId": 8,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1436
+        },
+        {
+          "substrate": {
+            "typeId": 1,
+            "weightId": 9,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1708
+        },
+        {
+          "substrate": {
+            "typeId": 2,
+            "weightId": 7,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1833
+        },
+        {
+          "substrate": {
+            "typeId": 2,
+            "weightId": 8,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1436
+        },
+        {
+          "substrate": {
+            "typeId": 2,
+            "weightId": 9,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1833
+        }
+      ]
+    },
+    {
+      "width": 24.0,
+      "height": 36.0,
+      "supportedSizes": [
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_8_5_X_11",
+          "pagesPerSheet": 16,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_5_X_7",
+          "pagesPerSheet": 32,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_5_X_8",
+          "pagesPerSheet": 32,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_8_375_X_10_875",
+          "pagesPerSheet": 16,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "SQUARE_8_25_IN",
+          "pagesPerSheet": 16,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "SQUARE_8_5_IN",
+          "pagesPerSheet": 16,
+          "valid": true
+        }
+      ],
+      "substrateCosts": [
+        {
+          "substrate": {
+            "typeId": 1,
+            "weightId": 7,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1137
+        },
+        {
+          "substrate": {
+            "typeId": 1,
+            "weightId": 8,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1297
+        },
+        {
+          "substrate": {
+            "typeId": 1,
+            "weightId": 9,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1833
+        },
+        {
+          "substrate": {
+            "typeId": 2,
+            "weightId": 7,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1708
+        },
+        {
+          "substrate": {
+            "typeId": 2,
+            "weightId": 8,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1297
+        },
+        {
+          "substrate": {
+            "typeId": 2,
+            "weightId": 9,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1708
+        }
+      ]
+    },
+    {
+      "width": 25.0,
+      "height": 38.0,
+      "supportedSizes": [
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_5_5_X_8_5",
+          "pagesPerSheet": 32,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_5_06_X_7_81",
+          "pagesPerSheet": 32,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_5_25_X_8",
+          "pagesPerSheet": 32,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_5_25_X_8_375",
+          "pagesPerSheet": 32,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_5_375_X_8_375",
+          "pagesPerSheet": 32,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_8_75_X_11",
+          "pagesPerSheet": 16,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": 4,
+          "standardSize": null,
+          "pagesPerSheet": 16,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": 5,
+          "standardSize": null,
+          "pagesPerSheet": 16,
+          "valid": true
+        }
+      ],
+      "substrateCosts": [
+        {
+          "substrate": {
+            "typeId": 1,
+            "weightId": 7,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1494
+        },
+        {
+          "substrate": {
+            "typeId": 1,
+            "weightId": 8,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1695
+        },
+        {
+          "substrate": {
+            "typeId": 1,
+            "weightId": 9,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.2016
+        },
+        {
+          "substrate": {
+            "typeId": 2,
+            "weightId": 7,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.2016
+        },
+        {
+          "substrate": {
+            "typeId": 2,
+            "weightId": 8,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1695
+        },
+        {
+          "substrate": {
+            "typeId": 2,
+            "weightId": 9,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.2016
+        }
+      ]
+    },
+    {
+      "width": 26.0,
+      "height": 40.0,
+      "supportedSizes": [
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_6_X_9",
+          "pagesPerSheet": 32,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_5_8_X_9_25",
+          "pagesPerSheet": 32,
+          "valid": true
+        },
+        {
+          "componentType": "BOUND",
+          "dinSize": null,
+          "standardSize": "IN_8_25_X_6",
+          "pagesPerSheet": 32,
+          "valid": true
+        }
+      ],
+      "substrateCosts": [
+        {
+          "substrate": {
+            "typeId": 1,
+            "weightId": 7,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1761
+        },
+        {
+          "substrate": {
+            "typeId": 1,
+            "weightId": 8,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1955
+        },
+        {
+          "substrate": {
+            "typeId": 1,
+            "weightId": 9,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.2377
+        },
+        {
+          "substrate": {
+            "typeId": 2,
+            "weightId": 7,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.2377
+        },
+        {
+          "substrate": {
+            "typeId": 2,
+            "weightId": 8,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.1955
+        },
+        {
+          "substrate": {
+            "typeId": 2,
+            "weightId": 9,
+            "colourId": 0,
+            "design": "NONE"
+          },
+          "cost": 0.2377
+        }
+      ]
+    }
+  ],
+  "componentSetupSheets": [
+    {
+      "componentType": "BOUND",
+      "setupSheets": 550
+    },
+    {
+      "componentType": "COVER",
+      "setupSheets": 309
+    }
+  ],
+  "laminationCosts": [
+    {
+      "componentType": "COVER",
+      "lamination": "MATT",
+      "cost": 0.23
+    },
+    {
+      "componentType": "COVER",
+      "lamination": "GLOSS",
+      "cost": 0.23
+    },
+    {
+      "componentType": "COVER",
+      "lamination": "SOFT",
+      "cost": 0.23
+    }
+  ]
+}

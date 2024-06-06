@@ -1,0 +1,2319 @@
+{
+    "products": [
+    "BROCHURES",
+    "FLYERS",
+    "FOLDED_LEAFLETS",
+    "POSTERS",
+    "LETTERHEADS",
+    "PHOTO_BOOKS",
+    "BOOK",
+    "BUSINESS_CARDS",
+    "POSTCARDS",
+    "GREETING_CARDS",
+    "NOTE_BOOKS",
+    "COMPLIMENT_SLIPS",
+    "ENVELOPES",
+    "FOLDERS",
+    "LAYFLAT_BOOKS",
+    "WALL_CALENDARS",
+    "DESK_CALENDARS",
+    "VR_WALL_CALENDARS",
+    "VR_DESK_CALENDARS",
+    "TRADITIONAL_BOOKS",
+    "CANVAS",
+    "FA_INDOOR_STICKERS",
+    "FA_OUTDOOR_STICKERS",
+    "FA_NEON_STICKERS",
+    "FA_GEL_STICKERS",
+    "FA_EXTREMELY_ADHESIVE_STICKERS",
+    "FA_HEAT_RESISTANT_STICKERS",
+    "FA_LUMINOUS_STICKERS",
+    "FA_REFLECTIVE_STICKERS",
+    "FA_REMOVABLE_STICKERS",
+    "FA_FOOD_STICKERS",
+    "FA_VEGAN_INDOOR_STICKERS",
+    "FA_VEGAN_OUTDOOR_STICKERS",
+    "FA_STICKER_ROLL",
+    "FA_STICKER_SHEET"
+    ],
+    "formats": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+    ],
+    "standardSizes": [
+    "NONE",
+    "MM_10_X_30",
+    "MM_15_X_35",
+    "MM_15_X_45",
+    "MM_20_X_40",
+    "MM_20_X_50",
+    "MM_21_X_68",
+    "MM_25_X_50",
+    "MM_30_X_70",
+    "MM_35_X_105",
+    "MM_35_X_210",
+    "MM_35_X_316",
+    "MM_40_X_50",
+    "MM_48_X_70",
+    "MM_51_X_298",
+    "MM_51_X_420",
+    "MM_52_X_210",
+    "MM_55_X_85",
+    "MM_55_X_148",
+    "MM_55_X_173",
+    "MM_71_X_96",
+    "MM_95_X_145",
+    "MM_95_X_45",
+    "MM_98_X_210",
+    "MM_98_X_420",
+    "MM_105_X_297",
+    "MM_120_X_125",
+    "MM_124_X_140",
+    "MM_130_X_150",
+    "MM_130_X_190",
+    "MM_138_X_297",
+    "MM_140_X_297",
+    "MM_150_X_265",
+    "MM_170_X_240",
+    "MM_170_X_590",
+    "MM_183_X_273",
+    "MM_199_X_210",
+    "MM_200_X_200",
+    "MM_210_X_280",
+    "MM_200_X_250",
+    "MM_240_X_340",
+    "MM_200_X_300",
+    "MM_200_X_600",
+    "MM_300_X_300",
+    "MM_300_X_400",
+    "MM_300_X_600",
+    "MM_300_X_800",
+    "MM_300_X_1000",
+    "MM_400_X_400",
+    "MM_400_X_500",
+    "MM_400_X_600",
+    "MM_400_X_1500",
+    "MM_500_X_500",
+    "MM_500_X_600",
+    "MM_500_X_700",
+    "MM_500_X_750",
+    "MM_500_X_1000",
+    "MM_600_X_600",
+    "MM_600_X_750",
+    "MM_600_X_800",
+    "MM_750_X_750",
+    "MM_750_X_1000",
+    "MM_800_X_1200",
+    "MM_895_X_1280",
+    "MM_700_X_1000",
+    "MM_1000_X_1000",
+    "MM_1000_X_1400",
+    "MM_1000_X_1200",
+    "MM_1000_X_1500",
+    "MM_1000_X_2000",
+    "MM_1185_X_1750",
+    "IN_2_X_3_5",
+    "IN_2_X_6",
+    "IN_2_X_8",
+    "IN_3_X_4",
+    "IN_3_5_X_8_5",
+    "IN_3_66_X_4_25",
+    "IN_4_X_4",
+    "IN_4_X_6",
+    "IN_4_X_9",
+    "IN_4_125_X_5_875",
+    "IN_4_25_X_55",
+    "IN_4_25_X_6_87",
+    "IN_4_25_X_11",
+    "IN_5_X_7",
+    "IN_5_X_8",
+    "IN_5_06_X_7_81",
+    "IN_5_125X_7",
+    "IN_5_25_X_8",
+    "IN_5_25_X_8_375",
+    "IN_5_375_X_8_375",
+    "IN_5_5_X_8_5",
+    "IN_5_8_X_9_25",
+    "IN_6_63_X_10_25",
+    "IN_6_X_9",
+    "IN_6_X_11",
+    "IN_6_14_X_9_21",
+    "IN_6_69_X_9_61",
+    "IN_7_X_8_5",
+    "IN_7_X_9",
+    "IN_7_X_10",
+    "IN_7_25_X_9_5",
+    "IN_7_44_X_9_69",
+    "IN_7_5_X_8_5",
+    "IN_7_5_X_9_25",
+    "IN_8_X_10",
+    "IN_8_X_11",
+    "IN_8_X_12",
+    "IN_8_25_X_6",
+    "IN_8_375_X_10_875",
+    "IN_8_5_X_3_5",
+    "IN_8_5_X_5_5",
+    "IN_8_5_X_11",
+    "IN_8_5_X_14",
+    "IN_8_5_X_17",
+    "IN_8_5_X_22",
+    "IN_8_75_X_11",
+    "IN_9_X_12",
+    "IN_9_X_16",
+    "IN_9_5_X_12",
+    "IN_10_X_15",
+    "IN_11_X_14",
+    "IN_11_X_17",
+    "IN_11_X_25_5",
+    "IN_11_5_X_17_5",
+    "IN_12_X_18",
+    "IN_13_X_19",
+    "IN_17_X_22",
+    "IN_18_X_24",
+    "IN_19_X_27",
+    "IN_20_X_30",
+    "IN_24_X_36",
+    "IN_26_X_39",
+    "IN_30_X_40",
+    "IN_40_X_60",
+    "SQUARE_10_MM",
+    "SQUARE_15_MM",
+    "SQUARE_20_MM",
+    "SQUARE_21_MM",
+    "SQUARE_25_MM",
+    "SQUARE_30_MM",
+    "SQUARE_35_MM",
+    "SQUARE_40_MM",
+    "SQUARE_45_MM",
+    "SQUARE_50_MM",
+    "SQUARE_55_MM",
+    "SQUARE_60_MM",
+    "SQUARE_70_MM",
+    "SQUARE_80_MM",
+    "SQUARE_95_MM",
+    "SQUARE_98_MM",
+    "SQUARE_100_MM",
+    "SQUARE_105_MM",
+    "SQUARE_120_MM",
+    "SQUARE_140_MM",
+    "SQUARE_148_MM",
+    "SQUARE_210_MM",
+    "SQUARE_280_MM",
+    "SQUARE_297_MM",
+    "SQUARE_4_75_IN",
+    "SQUARE_6_IN",
+    "SQUARE_7_IN",
+    "SQUARE_7_5_IN",
+    "SQUARE_8_IN",
+    "SQUARE_8_25_IN",
+    "SQUARE_8_5_IN",
+    "SQUARE_12_IN",
+    "SQUARE_10_IN",
+    "SQUARE_11_8_IN",
+    "ENVELOPE_C5",
+    "ENVELOPE_C4",
+    "ENVELOPE_DL",
+    "A1_LONG",
+    "A2_LONG",
+    "A5_LONG",
+    "A6_LONG",
+    "A7_LONG",
+    "A7_MINI",
+    "B0",
+    "B1",
+    "B2",
+    "B6",
+    "DL",
+    "DL_SMALL_99_MM",
+    "DL_SMALL_100_MM",
+    "BUSINESS_CARD",
+    "BUSINESS_CARD_2",
+    "BUSINESS_CARD_3",
+    "UK_STANDARD",
+    "US_STANDARD",
+    "US_TRADE",
+    "US_BUSINESS_CARD",
+    "US_POSTCARD_550",
+    "US_POSTCARD_425",
+    "MANGA_STANDARD",
+    "B_FORMAT_UK",
+    "PINCHED_CROWN_QUARTO",
+    "CROWN_QUARTO",
+    "NOVEL",
+    "STANDARD_BOOK",
+    "DEMY",
+    "SILVER_AGE",
+    "GOLDEN_AGE",
+    "US_ROYAL",
+    "ROYAL"
+    ],
+    "orientations": [
+    "PORTRAIT",
+    "LANDSCAPE"
+    ],
+    "colours": [
+    "NONE",
+    "PROCESS",
+    "GRAYSCALE"
+    ],
+    "bindingTypes": [
+    "STAPLED",
+    "PERFECT",
+    "PUR",
+    "CASE",
+    "WIRO",
+    "LOOP",
+    "CALENDAR_WIRO",
+    "SMYTH_SEWN",
+    "COIL"
+    ],
+    "componentTypes": [
+    "FLAT",
+    "FOLDED",
+    "BOUND",
+    "COVER",
+    "END_PAPERS",
+    "DUST_JACKET",
+    "FRAMED",
+    "STICKER",
+    "ENVELOPE",
+    "SHRINK_WRAP"
+    ],
+    "laminations": [
+    "NONE",
+    "MATT",
+    "GLOSS",
+    "SOFT",
+    "UV_MATT",
+    "UV_GLOSS",
+    "SPOT_UV_MATT",
+    "SPOT_UV_GLOSS",
+    "SPOT_3D_UV_MATT",
+    "SPOT_3D_UV_GLOSS",
+    "MATT_SPOT_UV",
+    "MATT_ANTI_SCUFF"
+    ],
+    "ribbonColours": [
+    "NONE",
+    "WHITE",
+    "CREAM",
+    "GOLD",
+    "ORANGE",
+    "RED",
+    "MAROON",
+    "PINK",
+    "PURPLE",
+    "LIGHT_BLUE",
+    "BLUE",
+    "NAVY_BLUE",
+    "GREEN",
+    "DARK_GREEN",
+    "GREY",
+    "BLACK"
+    ],
+    "headAndTailBands": [
+    "NONE",
+    "NAVY_BLUE_AND_WHITE",
+    "BLACK_AND_GREEN",
+    "RED_AND_BLACK",
+    "PURPLE_AND_WHITE",
+    "RED_AND_GREY",
+    "RED_AND_WHITE",
+    "YELLOW_AND_BROWN",
+    "DARK_BROWN_AND_WHITE",
+    "BLUE_AND_YELLOW",
+    "RED_AND_GREEN",
+    "YELLOW_AND_GREEN",
+    "BLUE_AND_WHITE",
+    "DARK_BLUE_AND_WHITE",
+    "RED_AND_YELLOW",
+    "MAROON_AND_WHITE",
+    "YELLOW_AND_BLACK",
+    "GREEN_AND_WHITE",
+    "BLACK_AND_WHITE",
+    "DARK_GREEN_AND_BLACK",
+    "DARK_GREEN_AND_WHITE",
+    "RED",
+    "BLACK",
+    "GREY",
+    "WHITE",
+    "DARK_BLUE",
+    "YELLOW"
+    ],
+    "bindingColours": [
+    "BLACK",
+    "WHITE",
+    "SILVER",
+    "GRAY",
+    "CLEAR",
+    "RED",
+    "BLUE",
+    "REFLEX_BLUE",
+    "YELLOW",
+    "COLLEGE_ORANGE",
+    "RED_WINE",
+    "BURGUNDY",
+    "PINK",
+    "PASTEL_PINK",
+    "FUSCHIA",
+    "NAVY_BLUE",
+    "PASTEL_BLUE",
+    "ROYAL_BLUE",
+    "TEAL",
+    "MEDIUM_GREEN",
+    "PASTEL_GREEN",
+    "APPLE_GREEN",
+    "PEARL_GREY",
+    "DARK_BROWN",
+    "PASTEL_BEIGE",
+    "CHOCOLATE_BROWN",
+    "NEON_GREEN",
+    "ORANGE",
+    "NEON_PINK",
+    "NEON_ORANGE",
+    "WARM_RED",
+    "PURPLE",
+    "VIOLET",
+    "FOREST_GREEN",
+    "DARK_GREEN",
+    "GOLD"
+    ],
+    "endPaperColours": [
+    "WHITE",
+    "BLACK",
+    "COLORPLAN_ADRIATIC",
+    "COLORPLAN_AMETHYST",
+    "COLORPLAN_AZURE_BLUE",
+    "COLORPLAN_BAGHDAD_BROWN",
+    "COLORPLAN_BITTER_CHOCOLATE",
+    "COLORPLAN_BRIGHT_RED",
+    "COLORPLAN_BRIGHT_WHITE",
+    "COLORPLAN_CANDY_PINK",
+    "COLORPLAN_CHINA_WHITE",
+    "COLORPLAN_CITRINE",
+    "COLORPLAN_CLARET",
+    "COLORPLAN_COBALT",
+    "COLORPLAN_COOL_BLUE",
+    "COLORPLAN_COOL_GREY",
+    "COLORPLAN_DARK_GREY",
+    "COLORPLAN_EBONY",
+    "COLORPLAN_EMERALD",
+    "COLORPLAN_FACTORY_YELLOW",
+    "COLORPLAN_FOREST",
+    "COLORPLAN_FUSCHIA_PINK",
+    "COLORPLAN_HARVEST",
+    "COLORPLAN_HOT_PINK",
+    "COLORPLAN_ICE_WHITE",
+    "COLORPLAN_IMPERIAL_BLUE",
+    "COLORPLAN_LAVENDAR",
+    "COLORPLAN_LOCKWOOD_GREEN",
+    "COLORPLAN_MANDARIN",
+    "COLORPLAN_MARRS_GREEN",
+    "COLORPLAN_MID_GREEN",
+    "COLORPLAN_MIST",
+    "COLORPLAN_NATURAL",
+    "COLORPLAN_NEW_BLUE",
+    "COLORPLAN_NUBUCK_BROWN",
+    "COLORPLAN_PALE_GREY",
+    "COLORPLAN_PARK_GREEN",
+    "COLORPLAN_PISTACHIO",
+    "COLORPLAN_POWDER_GREEN",
+    "COLORPLAN_PRISTINE_WHITE",
+    "COLORPLAN_PURPLE",
+    "COLORPLAN_RACING_GREEN",
+    "COLORPLAN_REAL_GREY",
+    "COLORPLAN_ROYAL_BLUE",
+    "COLORPLAN_SAPPHIRE",
+    "COLORPLAN_SCARLET",
+    "COLORPLAN_SMOKE",
+    "COLORPLAN_SORBET_YELLOW",
+    "COLORPLAN_STONE",
+    "COLORPLAN_TABRIZ_BLUE",
+    "COLORPLAN_TURQUOISE",
+    "COLORPLAN_VELLUM_WHITE",
+    "COLORPLAN_VERMILLION",
+    "COLORPLAN_WHITE_FROST"
+    ],
+    "foilingColours": [
+    "GOLD",
+    "SILVER",
+    "COPPER",
+    "RED",
+    "BLUE",
+    "GREEN"
+    ],
+    "borderTypes": [
+    "WRAP_AROUND",
+    "EDGE_TO_EDGE",
+    "PADDED"
+    ],
+    "simpleFolds": [
+    "NONE",
+    "HALF",
+    "ROLE",
+    "Z",
+    "GATE",
+    "CROSS",
+    "PARALLEL",
+    "ENVELOPE"
+    ],
+    "coverAreas": [
+    "FRONT_AND_BACK",
+    "FRONT_ONLY"
+    ],
+    "frameDepths": [
+    "UNSPECIFIED",
+    "MM_18",
+    "MM_38"
+    ],
+    "unitFormats": [
+    0,
+    1
+    ],
+    "substrateDesigns": [
+    "NONE",
+    "LINED"
+    ],
+    "bindingLoops": [
+    "TWO_LOOPS",
+    "FOUR_LOOPS"
+    ],
+    "countries": [
+    {
+    "id": 1,
+    "name": "Afghanistan",
+    "iso2": "AF"
+    },
+    {
+    "id": 2,
+    "name": "Aland Islands",
+    "iso2": "AX"
+    },
+    {
+    "id": 3,
+    "name": "Albania",
+    "iso2": "AL"
+    },
+    {
+    "id": 4,
+    "name": "Algeria",
+    "iso2": "DZ"
+    },
+    {
+    "id": 5,
+    "name": "American Samoa",
+    "iso2": "AS"
+    },
+    {
+    "id": 6,
+    "name": "Andorra",
+    "iso2": "AD"
+    },
+    {
+    "id": 7,
+    "name": "Angola",
+    "iso2": "AO"
+    },
+    {
+    "id": 8,
+    "name": "Anguilla",
+    "iso2": "AI"
+    },
+    {
+    "id": 9,
+    "name": "Antarctica",
+    "iso2": "AQ"
+    },
+    {
+    "id": 10,
+    "name": "Antigua And Barbuda",
+    "iso2": "AG"
+    },
+    {
+    "id": 11,
+    "name": "Argentina",
+    "iso2": "AR"
+    },
+    {
+    "id": 12,
+    "name": "Armenia",
+    "iso2": "AM"
+    },
+    {
+    "id": 13,
+    "name": "Aruba",
+    "iso2": "AW"
+    },
+    {
+    "id": 14,
+    "name": "Australia",
+    "iso2": "AU"
+    },
+    {
+    "id": 15,
+    "name": "Austria",
+    "iso2": "AT"
+    },
+    {
+    "id": 16,
+    "name": "Azerbaijan",
+    "iso2": "AZ"
+    },
+    {
+    "id": 17,
+    "name": "The Bahamas",
+    "iso2": "BS"
+    },
+    {
+    "id": 18,
+    "name": "Bahrain",
+    "iso2": "BH"
+    },
+    {
+    "id": 19,
+    "name": "Bangladesh",
+    "iso2": "BD"
+    },
+    {
+    "id": 20,
+    "name": "Barbados",
+    "iso2": "BB"
+    },
+    {
+    "id": 21,
+    "name": "Belarus",
+    "iso2": "BY"
+    },
+    {
+    "id": 22,
+    "name": "Belgium",
+    "iso2": "BE"
+    },
+    {
+    "id": 23,
+    "name": "Belize",
+    "iso2": "BZ"
+    },
+    {
+    "id": 24,
+    "name": "Benin",
+    "iso2": "BJ"
+    },
+    {
+    "id": 25,
+    "name": "Bermuda",
+    "iso2": "BM"
+    },
+    {
+    "id": 26,
+    "name": "Bhutan",
+    "iso2": "BT"
+    },
+    {
+    "id": 27,
+    "name": "Bolivia",
+    "iso2": "BO"
+    },
+    {
+    "id": 28,
+    "name": "Bosnia and Herzegovina",
+    "iso2": "BA"
+    },
+    {
+    "id": 29,
+    "name": "Botswana",
+    "iso2": "BW"
+    },
+    {
+    "id": 30,
+    "name": "Bouvet Island",
+    "iso2": "BV"
+    },
+    {
+    "id": 31,
+    "name": "Brazil",
+    "iso2": "BR"
+    },
+    {
+    "id": 32,
+    "name": "British Indian Ocean Territory",
+    "iso2": "IO"
+    },
+    {
+    "id": 33,
+    "name": "Brunei",
+    "iso2": "BN"
+    },
+    {
+    "id": 34,
+    "name": "Bulgaria",
+    "iso2": "BG"
+    },
+    {
+    "id": 35,
+    "name": "Burkina Faso",
+    "iso2": "BF"
+    },
+    {
+    "id": 36,
+    "name": "Burundi",
+    "iso2": "BI"
+    },
+    {
+    "id": 37,
+    "name": "Cambodia",
+    "iso2": "KH"
+    },
+    {
+    "id": 38,
+    "name": "Cameroon",
+    "iso2": "CM"
+    },
+    {
+    "id": 39,
+    "name": "Canada",
+    "iso2": "CA"
+    },
+    {
+    "id": 40,
+    "name": "Cape Verde",
+    "iso2": "CV"
+    },
+    {
+    "id": 41,
+    "name": "Cayman Islands",
+    "iso2": "KY"
+    },
+    {
+    "id": 42,
+    "name": "Central African Republic",
+    "iso2": "CF"
+    },
+    {
+    "id": 43,
+    "name": "Chad",
+    "iso2": "TD"
+    },
+    {
+    "id": 44,
+    "name": "Chile",
+    "iso2": "CL"
+    },
+    {
+    "id": 45,
+    "name": "China",
+    "iso2": "CN"
+    },
+    {
+    "id": 46,
+    "name": "Christmas Island",
+    "iso2": "CX"
+    },
+    {
+    "id": 47,
+    "name": "Cocos (Keeling) Islands",
+    "iso2": "CC"
+    },
+    {
+    "id": 48,
+    "name": "Colombia",
+    "iso2": "CO"
+    },
+    {
+    "id": 49,
+    "name": "Comoros",
+    "iso2": "KM"
+    },
+    {
+    "id": 50,
+    "name": "Congo",
+    "iso2": "CG"
+    },
+    {
+    "id": 51,
+    "name": "Democratic Republic of the Congo",
+    "iso2": "CD"
+    },
+    {
+    "id": 52,
+    "name": "Cook Islands",
+    "iso2": "CK"
+    },
+    {
+    "id": 53,
+    "name": "Costa Rica",
+    "iso2": "CR"
+    },
+    {
+    "id": 54,
+    "name": "Cote D'Ivoire (Ivory Coast)",
+    "iso2": "CI"
+    },
+    {
+    "id": 55,
+    "name": "Croatia",
+    "iso2": "HR"
+    },
+    {
+    "id": 56,
+    "name": "Cuba",
+    "iso2": "CU"
+    },
+    {
+    "id": 57,
+    "name": "Cyprus",
+    "iso2": "CY"
+    },
+    {
+    "id": 58,
+    "name": "Czech Republic",
+    "iso2": "CZ"
+    },
+    {
+    "id": 59,
+    "name": "Denmark",
+    "iso2": "DK"
+    },
+    {
+    "id": 60,
+    "name": "Djibouti",
+    "iso2": "DJ"
+    },
+    {
+    "id": 61,
+    "name": "Dominica",
+    "iso2": "DM"
+    },
+    {
+    "id": 62,
+    "name": "Dominican Republic",
+    "iso2": "DO"
+    },
+    {
+    "id": 63,
+    "name": "East Timor",
+    "iso2": "TL"
+    },
+    {
+    "id": 64,
+    "name": "Ecuador",
+    "iso2": "EC"
+    },
+    {
+    "id": 65,
+    "name": "Egypt",
+    "iso2": "EG"
+    },
+    {
+    "id": 66,
+    "name": "El Salvador",
+    "iso2": "SV"
+    },
+    {
+    "id": 67,
+    "name": "Equatorial Guinea",
+    "iso2": "GQ"
+    },
+    {
+    "id": 68,
+    "name": "Eritrea",
+    "iso2": "ER"
+    },
+    {
+    "id": 69,
+    "name": "Estonia",
+    "iso2": "EE"
+    },
+    {
+    "id": 70,
+    "name": "Ethiopia",
+    "iso2": "ET"
+    },
+    {
+    "id": 71,
+    "name": "Falkland Islands",
+    "iso2": "FK"
+    },
+    {
+    "id": 72,
+    "name": "Faroe Islands",
+    "iso2": "FO"
+    },
+    {
+    "id": 73,
+    "name": "Fiji Islands",
+    "iso2": "FJ"
+    },
+    {
+    "id": 74,
+    "name": "Finland",
+    "iso2": "FI"
+    },
+    {
+    "id": 75,
+    "name": "France",
+    "iso2": "FR"
+    },
+    {
+    "id": 76,
+    "name": "French Guiana",
+    "iso2": "GF"
+    },
+    {
+    "id": 77,
+    "name": "French Polynesia",
+    "iso2": "PF"
+    },
+    {
+    "id": 78,
+    "name": "French Southern Territories",
+    "iso2": "TF"
+    },
+    {
+    "id": 79,
+    "name": "Gabon",
+    "iso2": "GA"
+    },
+    {
+    "id": 80,
+    "name": "Gambia The",
+    "iso2": "GM"
+    },
+    {
+    "id": 81,
+    "name": "Georgia",
+    "iso2": "GE"
+    },
+    {
+    "id": 82,
+    "name": "Germany",
+    "iso2": "DE"
+    },
+    {
+    "id": 83,
+    "name": "Ghana",
+    "iso2": "GH"
+    },
+    {
+    "id": 84,
+    "name": "Gibraltar",
+    "iso2": "GI"
+    },
+    {
+    "id": 85,
+    "name": "Greece",
+    "iso2": "GR"
+    },
+    {
+    "id": 86,
+    "name": "Greenland",
+    "iso2": "GL"
+    },
+    {
+    "id": 87,
+    "name": "Grenada",
+    "iso2": "GD"
+    },
+    {
+    "id": 88,
+    "name": "Guadeloupe",
+    "iso2": "GP"
+    },
+    {
+    "id": 89,
+    "name": "Guam",
+    "iso2": "GU"
+    },
+    {
+    "id": 90,
+    "name": "Guatemala",
+    "iso2": "GT"
+    },
+    {
+    "id": 91,
+    "name": "Guernsey and Alderney",
+    "iso2": "GG"
+    },
+    {
+    "id": 92,
+    "name": "Guinea",
+    "iso2": "GN"
+    },
+    {
+    "id": 93,
+    "name": "Guinea-Bissau",
+    "iso2": "GW"
+    },
+    {
+    "id": 94,
+    "name": "Guyana",
+    "iso2": "GY"
+    },
+    {
+    "id": 95,
+    "name": "Haiti",
+    "iso2": "HT"
+    },
+    {
+    "id": 96,
+    "name": "Heard Island and McDonald Islands",
+    "iso2": "HM"
+    },
+    {
+    "id": 97,
+    "name": "Honduras",
+    "iso2": "HN"
+    },
+    {
+    "id": 98,
+    "name": "Hong Kong S.A.R.",
+    "iso2": "HK"
+    },
+    {
+    "id": 99,
+    "name": "Hungary",
+    "iso2": "HU"
+    },
+    {
+    "id": 100,
+    "name": "Iceland",
+    "iso2": "IS"
+    },
+    {
+    "id": 101,
+    "name": "India",
+    "iso2": "IN"
+    },
+    {
+    "id": 102,
+    "name": "Indonesia",
+    "iso2": "ID"
+    },
+    {
+    "id": 103,
+    "name": "Iran",
+    "iso2": "IR"
+    },
+    {
+    "id": 104,
+    "name": "Iraq",
+    "iso2": "IQ"
+    },
+    {
+    "id": 105,
+    "name": "Ireland",
+    "iso2": "IE"
+    },
+    {
+    "id": 106,
+    "name": "Israel",
+    "iso2": "IL"
+    },
+    {
+    "id": 107,
+    "name": "Italy",
+    "iso2": "IT"
+    },
+    {
+    "id": 108,
+    "name": "Jamaica",
+    "iso2": "JM"
+    },
+    {
+    "id": 109,
+    "name": "Japan",
+    "iso2": "JP"
+    },
+    {
+    "id": 110,
+    "name": "Jersey",
+    "iso2": "JE"
+    },
+    {
+    "id": 111,
+    "name": "Jordan",
+    "iso2": "JO"
+    },
+    {
+    "id": 112,
+    "name": "Kazakhstan",
+    "iso2": "KZ"
+    },
+    {
+    "id": 113,
+    "name": "Kenya",
+    "iso2": "KE"
+    },
+    {
+    "id": 114,
+    "name": "Kiribati",
+    "iso2": "KI"
+    },
+    {
+    "id": 115,
+    "name": "North Korea",
+    "iso2": "KP"
+    },
+    {
+    "id": 116,
+    "name": "South Korea",
+    "iso2": "KR"
+    },
+    {
+    "id": 117,
+    "name": "Kuwait",
+    "iso2": "KW"
+    },
+    {
+    "id": 118,
+    "name": "Kyrgyzstan",
+    "iso2": "KG"
+    },
+    {
+    "id": 119,
+    "name": "Laos",
+    "iso2": "LA"
+    },
+    {
+    "id": 120,
+    "name": "Latvia",
+    "iso2": "LV"
+    },
+    {
+    "id": 121,
+    "name": "Lebanon",
+    "iso2": "LB"
+    },
+    {
+    "id": 122,
+    "name": "Lesotho",
+    "iso2": "LS"
+    },
+    {
+    "id": 123,
+    "name": "Liberia",
+    "iso2": "LR"
+    },
+    {
+    "id": 124,
+    "name": "Libya",
+    "iso2": "LY"
+    },
+    {
+    "id": 125,
+    "name": "Liechtenstein",
+    "iso2": "LI"
+    },
+    {
+    "id": 126,
+    "name": "Lithuania",
+    "iso2": "LT"
+    },
+    {
+    "id": 127,
+    "name": "Luxembourg",
+    "iso2": "LU"
+    },
+    {
+    "id": 128,
+    "name": "Macau S.A.R.",
+    "iso2": "MO"
+    },
+    {
+    "id": 129,
+    "name": "North Macedonia",
+    "iso2": "MK"
+    },
+    {
+    "id": 130,
+    "name": "Madagascar",
+    "iso2": "MG"
+    },
+    {
+    "id": 131,
+    "name": "Malawi",
+    "iso2": "MW"
+    },
+    {
+    "id": 132,
+    "name": "Malaysia",
+    "iso2": "MY"
+    },
+    {
+    "id": 133,
+    "name": "Maldives",
+    "iso2": "MV"
+    },
+    {
+    "id": 134,
+    "name": "Mali",
+    "iso2": "ML"
+    },
+    {
+    "id": 135,
+    "name": "Malta",
+    "iso2": "MT"
+    },
+    {
+    "id": 136,
+    "name": "Man (Isle of)",
+    "iso2": "IM"
+    },
+    {
+    "id": 137,
+    "name": "Marshall Islands",
+    "iso2": "MH"
+    },
+    {
+    "id": 138,
+    "name": "Martinique",
+    "iso2": "MQ"
+    },
+    {
+    "id": 139,
+    "name": "Mauritania",
+    "iso2": "MR"
+    },
+    {
+    "id": 140,
+    "name": "Mauritius",
+    "iso2": "MU"
+    },
+    {
+    "id": 141,
+    "name": "Mayotte",
+    "iso2": "YT"
+    },
+    {
+    "id": 142,
+    "name": "Mexico",
+    "iso2": "MX"
+    },
+    {
+    "id": 143,
+    "name": "Micronesia",
+    "iso2": "FM"
+    },
+    {
+    "id": 144,
+    "name": "Moldova",
+    "iso2": "MD"
+    },
+    {
+    "id": 145,
+    "name": "Monaco",
+    "iso2": "MC"
+    },
+    {
+    "id": 146,
+    "name": "Mongolia",
+    "iso2": "MN"
+    },
+    {
+    "id": 147,
+    "name": "Montenegro",
+    "iso2": "ME"
+    },
+    {
+    "id": 148,
+    "name": "Montserrat",
+    "iso2": "MS"
+    },
+    {
+    "id": 149,
+    "name": "Morocco",
+    "iso2": "MA"
+    },
+    {
+    "id": 150,
+    "name": "Mozambique",
+    "iso2": "MZ"
+    },
+    {
+    "id": 151,
+    "name": "Myanmar",
+    "iso2": "MM"
+    },
+    {
+    "id": 152,
+    "name": "Namibia",
+    "iso2": "NA"
+    },
+    {
+    "id": 153,
+    "name": "Nauru",
+    "iso2": "NR"
+    },
+    {
+    "id": 154,
+    "name": "Nepal",
+    "iso2": "NP"
+    },
+    {
+    "id": 155,
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "iso2": "BQ"
+    },
+    {
+    "id": 156,
+    "name": "Netherlands",
+    "iso2": "NL"
+    },
+    {
+    "id": 157,
+    "name": "New Caledonia",
+    "iso2": "NC"
+    },
+    {
+    "id": 158,
+    "name": "New Zealand",
+    "iso2": "NZ"
+    },
+    {
+    "id": 159,
+    "name": "Nicaragua",
+    "iso2": "NI"
+    },
+    {
+    "id": 160,
+    "name": "Niger",
+    "iso2": "NE"
+    },
+    {
+    "id": 161,
+    "name": "Nigeria",
+    "iso2": "NG"
+    },
+    {
+    "id": 162,
+    "name": "Niue",
+    "iso2": "NU"
+    },
+    {
+    "id": 163,
+    "name": "Norfolk Island",
+    "iso2": "NF"
+    },
+    {
+    "id": 164,
+    "name": "Northern Mariana Islands",
+    "iso2": "MP"
+    },
+    {
+    "id": 165,
+    "name": "Norway",
+    "iso2": "NO"
+    },
+    {
+    "id": 166,
+    "name": "Oman",
+    "iso2": "OM"
+    },
+    {
+    "id": 167,
+    "name": "Pakistan",
+    "iso2": "PK"
+    },
+    {
+    "id": 168,
+    "name": "Palau",
+    "iso2": "PW"
+    },
+    {
+    "id": 169,
+    "name": "Palestinian Territory Occupied",
+    "iso2": "PS"
+    },
+    {
+    "id": 170,
+    "name": "Panama",
+    "iso2": "PA"
+    },
+    {
+    "id": 171,
+    "name": "Papua new Guinea",
+    "iso2": "PG"
+    },
+    {
+    "id": 172,
+    "name": "Paraguay",
+    "iso2": "PY"
+    },
+    {
+    "id": 173,
+    "name": "Peru",
+    "iso2": "PE"
+    },
+    {
+    "id": 174,
+    "name": "Philippines",
+    "iso2": "PH"
+    },
+    {
+    "id": 175,
+    "name": "Pitcairn Island",
+    "iso2": "PN"
+    },
+    {
+    "id": 176,
+    "name": "Poland",
+    "iso2": "PL"
+    },
+    {
+    "id": 177,
+    "name": "Portugal",
+    "iso2": "PT"
+    },
+    {
+    "id": 178,
+    "name": "Puerto Rico",
+    "iso2": "PR"
+    },
+    {
+    "id": 179,
+    "name": "Qatar",
+    "iso2": "QA"
+    },
+    {
+    "id": 180,
+    "name": "Reunion",
+    "iso2": "RE"
+    },
+    {
+    "id": 181,
+    "name": "Romania",
+    "iso2": "RO"
+    },
+    {
+    "id": 182,
+    "name": "Russia",
+    "iso2": "RU"
+    },
+    {
+    "id": 183,
+    "name": "Rwanda",
+    "iso2": "RW"
+    },
+    {
+    "id": 184,
+    "name": "Saint Helena",
+    "iso2": "SH"
+    },
+    {
+    "id": 185,
+    "name": "Saint Kitts And Nevis",
+    "iso2": "KN"
+    },
+    {
+    "id": 186,
+    "name": "Saint Lucia",
+    "iso2": "LC"
+    },
+    {
+    "id": 187,
+    "name": "Saint Pierre and Miquelon",
+    "iso2": "PM"
+    },
+    {
+    "id": 188,
+    "name": "Saint Vincent And The Grenadines",
+    "iso2": "VC"
+    },
+    {
+    "id": 189,
+    "name": "Saint-Barthelemy",
+    "iso2": "BL"
+    },
+    {
+    "id": 190,
+    "name": "Saint-Martin (French part)",
+    "iso2": "MF"
+    },
+    {
+    "id": 191,
+    "name": "Samoa",
+    "iso2": "WS"
+    },
+    {
+    "id": 192,
+    "name": "San Marino",
+    "iso2": "SM"
+    },
+    {
+    "id": 193,
+    "name": "Sao Tome and Principe",
+    "iso2": "ST"
+    },
+    {
+    "id": 194,
+    "name": "Saudi Arabia",
+    "iso2": "SA"
+    },
+    {
+    "id": 195,
+    "name": "Senegal",
+    "iso2": "SN"
+    },
+    {
+    "id": 196,
+    "name": "Serbia",
+    "iso2": "RS"
+    },
+    {
+    "id": 197,
+    "name": "Seychelles",
+    "iso2": "SC"
+    },
+    {
+    "id": 198,
+    "name": "Sierra Leone",
+    "iso2": "SL"
+    },
+    {
+    "id": 199,
+    "name": "Singapore",
+    "iso2": "SG"
+    },
+    {
+    "id": 200,
+    "name": "Slovakia",
+    "iso2": "SK"
+    },
+    {
+    "id": 201,
+    "name": "Slovenia",
+    "iso2": "SI"
+    },
+    {
+    "id": 202,
+    "name": "Solomon Islands",
+    "iso2": "SB"
+    },
+    {
+    "id": 203,
+    "name": "Somalia",
+    "iso2": "SO"
+    },
+    {
+    "id": 204,
+    "name": "South Africa",
+    "iso2": "ZA"
+    },
+    {
+    "id": 205,
+    "name": "South Georgia",
+    "iso2": "GS"
+    },
+    {
+    "id": 206,
+    "name": "South Sudan",
+    "iso2": "SS"
+    },
+    {
+    "id": 207,
+    "name": "Spain",
+    "iso2": "ES"
+    },
+    {
+    "id": 208,
+    "name": "Sri Lanka",
+    "iso2": "LK"
+    },
+    {
+    "id": 209,
+    "name": "Sudan",
+    "iso2": "SD"
+    },
+    {
+    "id": 210,
+    "name": "Suriname",
+    "iso2": "SR"
+    },
+    {
+    "id": 211,
+    "name": "Svalbard And Jan Mayen Islands",
+    "iso2": "SJ"
+    },
+    {
+    "id": 212,
+    "name": "Swaziland",
+    "iso2": "SZ"
+    },
+    {
+    "id": 213,
+    "name": "Sweden",
+    "iso2": "SE"
+    },
+    {
+    "id": 214,
+    "name": "Switzerland",
+    "iso2": "CH"
+    },
+    {
+    "id": 215,
+    "name": "Syria",
+    "iso2": "SY"
+    },
+    {
+    "id": 216,
+    "name": "Taiwan",
+    "iso2": "TW"
+    },
+    {
+    "id": 217,
+    "name": "Tajikistan",
+    "iso2": "TJ"
+    },
+    {
+    "id": 218,
+    "name": "Tanzania",
+    "iso2": "TZ"
+    },
+    {
+    "id": 219,
+    "name": "Thailand",
+    "iso2": "TH"
+    },
+    {
+    "id": 220,
+    "name": "Togo",
+    "iso2": "TG"
+    },
+    {
+    "id": 221,
+    "name": "Tokelau",
+    "iso2": "TK"
+    },
+    {
+    "id": 222,
+    "name": "Tonga",
+    "iso2": "TO"
+    },
+    {
+    "id": 223,
+    "name": "Trinidad And Tobago",
+    "iso2": "TT"
+    },
+    {
+    "id": 224,
+    "name": "Tunisia",
+    "iso2": "TN"
+    },
+    {
+    "id": 225,
+    "name": "Turkey",
+    "iso2": "TR"
+    },
+    {
+    "id": 226,
+    "name": "Turkmenistan",
+    "iso2": "TM"
+    },
+    {
+    "id": 227,
+    "name": "Turks And Caicos Islands",
+    "iso2": "TC"
+    },
+    {
+    "id": 228,
+    "name": "Tuvalu",
+    "iso2": "TV"
+    },
+    {
+    "id": 229,
+    "name": "Uganda",
+    "iso2": "UG"
+    },
+    {
+    "id": 230,
+    "name": "Ukraine",
+    "iso2": "UA"
+    },
+    {
+    "id": 231,
+    "name": "United Arab Emirates",
+    "iso2": "AE"
+    },
+    {
+    "id": 232,
+    "name": "United Kingdom",
+    "iso2": "GB"
+    },
+    {
+    "id": 233,
+    "name": "United States",
+    "iso2": "US"
+    },
+    {
+    "id": 234,
+    "name": "United States Minor Outlying Islands",
+    "iso2": "UM"
+    },
+    {
+    "id": 235,
+    "name": "Uruguay",
+    "iso2": "UY"
+    },
+    {
+    "id": 236,
+    "name": "Uzbekistan",
+    "iso2": "UZ"
+    },
+    {
+    "id": 237,
+    "name": "Vanuatu",
+    "iso2": "VU"
+    },
+    {
+    "id": 238,
+    "name": "Vatican City State (Holy See)",
+    "iso2": "VA"
+    },
+    {
+    "id": 239,
+    "name": "Venezuela",
+    "iso2": "VE"
+    },
+    {
+    "id": 240,
+    "name": "Vietnam",
+    "iso2": "VN"
+    },
+    {
+    "name": "Virgin Islands (British)",
+    "iso2": "VG"
+    },
+    {
+    "id": 242,
+    "name": "Virgin Islands (US)",
+    "iso2": "VI"
+    },
+    {
+    "id": 243,
+    "name": "Wallis And Futuna Islands",
+    "iso2": "WF"
+    },
+    {
+    "id": 244,
+    "name": "Western Sahara",
+    "iso2": "EH"
+    },
+    {
+    "id": 245,
+    "name": "Yemen",
+    "iso2": "YE"
+    },
+    {
+    "id": 246,
+    "name": "Zambia",
+    "iso2": "ZM"
+    },
+    {
+    "id": 247,
+    "name": "Zimbabwe",
+    "iso2": "ZW"
+    },
+    {
+    "id": 248,
+    "name": "Kosovo",
+    "iso2": "XK"
+    },
+    {
+    "id": 249,
+    "name": "Curaçao",
+    "iso2": "CW"
+    },
+    {
+    "id": 250,
+    "name": "Sint Maarten (Dutch part)",
+    "iso2": "SX"
+    }
+    ],
+    "designOptions": [
+    "UPLOAD",
+    "DESIGN_ONLINE",
+    "DESIGN_SERVICE"
+    ],
+    "bindingEdges": [
+    "LEFT_RIGHT",
+    "TOP_BOTTOM"
+    ],
+    "preDrilledHoles": [
+    "NONE",
+    "ONE_HOLE_OPPOSITE_BINDING_CENTER",
+    "ONE_HOLE_TOP_CENTER"
+    ],
+    "suppliers": {
+    "5b6db49fd46d75056900784d": "Bluetree",
+    "60c89ae9b69bf0cbb8723384": "CPI Antony Rowe (HQ)",
+    "60c89ab3b69bf0cbb872306f": "CPI Antony Rowe (LQ)",
+    "5e299d56c3d56d20ed6ea7e6": "Charlesworth Press",
+    "54ff2bf6e4b0c38cdc1c3073": "ESP Colour",
+    "5dc15f47c3d56d03b476caf6": "ESP Colour Litho",
+    "626965a5674cbd86f4d3405f": "ESP POD",
+    "59b5491e697df13d6d03f9b6": "Flyeralarm",
+    "54a9bba412080587a82000a8": "Other Suppliers",
+    "6523dfee1a88fd57ec648e89": "PixartPrinting (DO NOT USE)",
+    "5787f639b73985056b6b0251": "Precision Proco",
+    "5bbca738d46d75037d694969": "Print Evolved",
+    "65bb906fd380971eebe9c00b": "PrintForce",
+    "5a6f929c697df12d771d1e42": "Printed.com",
+    "5f575e9bd46d75047b53b2c1": "Testing Supplier",
+    "58baf34c697df1b04b410083": "TradePrint"
+    },
+    "machines": {
+    "5f85aa69c3d56d3f19066552": "B1-BCH (Charlesworth B1 Litho Machine)",
+    "5ed7945c697df1048e3f2358": "B1-ES (ESP B1 Litho Machine)",
+    "6523e1031a88fd57ec648ebf": "B1-PX (Pixart B1 Litho Machine)",
+    "644a5a0ab9302871e00f92c6": "B1-TP (B1-TP Tradeprint Litho Machine)",
+    "6487177721f6032e66e2fcb7": "B1-TP-FF (Tradeprint Flat Items B1 Litho)",
+    "61bc9e83db2fe321509b1d0a": "B2-BBB (Bishops B2-BB)",
+    "5f60cf4cd46d75047b53b2c6": "B2-ES (ESP B2 Litho Machine)",
+    "616048136810b6546dda6035": "B2-ES-J (B2-ES JDP)",
+    "624b085ce737ef5f4dffbd7e": "B2D-CH (B2D-CH Charlesworth Digital Machine)",
+    "643662f17eaa08371959e776": "B2D-PC (B2D-PC Printed.Com)",
+    "5787ec115e1cc706c0448e01": "B2D-PR (Precision Proco B2D)",
+    "6523e12d1a88fd57ec648ec6": "B2D-PX (Pixart B2 Digital Machine B2D-PX)",
+    "5f75b441effd5f1c6b1ddfe7": "B3-CN-ES (B3 Canon ESP)",
+    "5e299bc5c3d56d20ed6ea7e5": "B3D-BCH (Charlesworth digital book machine)",
+    "61e185a77a517b2a90b2b4d3": "B3D-BVR (Print Evolved Digital Book Machine)",
+    "56bb969f5e1cc72fed9ce624": "B3D-H (JDP B3 Indigo)",
+    "577d4b8db73985371e59aff1": "B3D-HB (null)",
+    "5ae1bfd3eba316062a6d1f18": "B3D-HL (null)",
+    "62948dbd0331437c67a68a3b": "B3D-NBCH (Charlesworth Note Book Machine)",
+    "6548d8d1ded8ec0b57a46755": "B3D-PR (Precision Proco B3 Digital Machine)",
+    "65392ced175812698e31e50b": "B3D-S (B3D-S Severn B3D Digital Machine)",
+    "644a59e5b9302871e00f92bc": "B3D-TP (B3D-TP TradePrint B3)",
+    "6487132f21f6032e66e2fc3d": "B3D-TP-FF (Tradeprint Digital Flat Items)",
+    "5f905095d46d75224b02f41a": "B3D-V (Print Evolved - Main machine)",
+    "616048dd6810b6546dda6046": "B3D-V-ES (B3D-V-ES ESP)",
+    "60c8d2c4b69bf0cbb87c806a": "B3M-L (CPI HQ)",
+    "60c8d28cb69bf0cbb87c794f": "B3M-S (CPI LQ)",
+    "627d2214a91998b552d94371": "B3M-SVN (Severn)",
+    "623c5cd75f64f4233b6709b7": "BLT-D (Bluetree Digital)",
+    "5b7bfbd7d46d750569007850": "CAL-3D (Calendar printer)",
+    "5bbdd357d46d75037d69496f": "CAL-VR (Print Evolved Calendar Machine)",
+    "6627877e2087259081b6bcab": "ES-POD-I (ESP POD Canon iX)",
+    "604a4cfc85ce6e1f35112e27": "ESP-C (ESP - Canon Colorado UVgel)",
+    "62b036676aed59f92b34ff0f": "ESP-LFP (ESP Large Format Posters)",
+    "5f6e0b94effd5f1c6b1ddfe2": "FAD (FlyerAlarm Digital)",
+    "5bead460d46d750269552d73": "LAY-VR (Print Evolved Layflat machine)",
+    "5d89ff32c3d56d4f016796a1": "P2D-BK (print2demand book printing)",
+    "65c0e6282f454ac28c99b804": "PF-HQ (PrintForce HQ Machine)",
+    "65e5f065d2947f17bc6cef8d": "PF-IQ (PrintForce IQ Machine)",
+    "5a6f915c697df12d771d1e41": "PRT (printed - mixam)",
+    "6269230d674cbd86f4aa4825": "TRP-D (Trade Print)",
+    "64187fc06a4075a4bb7e20a2": "VR-POD (Print Evolved POD)"
+    },
+    "substrateTypes": {
+    "1": "Silk",
+    "2": "Gloss",
+    "3": "Uncoated",
+    "7": "Recycled Uncoated",
+    "8": "Recycled Natural",
+    "11": "Postcard Board",
+    "45": "Recycled Silk",
+    "55": "Bookwove",
+    "56": "Polyester",
+    "57": "Créme",
+    "59": "Matt",
+    "60": "Uncoated Natural",
+    "64": "Grass Paper",
+    "65": "Neon Paper",
+    "66": "Paper",
+    "67": "Recyled Paper",
+    "68": "Temperature Resistant Paper",
+    "69": "Handmade Paper",
+    "70": "Stone Paper",
+    "71": "Sugar Cane Fibre Paper",
+    "72": "Vinyl",
+    "73": "Biodegradeable Vinyl",
+    "74": "Extremely Adhesive Vinyl",
+    "75": "Removable Vinyl",
+    "78": "E-Photo Silk Lustre",
+    "79": "Archival Matt",
+    "80": "Archival Uncoated",
+    "81": "Archival Textured Matt"
+    },
+    "substrateWeights": {
+    "1": {
+    "0": "Silk 90gsm",
+    "1": "Silk 100gsm",
+    "2": "Silk 115gsm",
+    "3": "Silk 130gsm",
+    "4": "Silk 150gsm",
+    "5": "Silk 170gsm",
+    "7": "Silk 250gsm",
+    "8": "Silk 300gsm",
+    "9": "Silk 350gsm",
+    "13": "Silk 400gsm",
+    "14": "Silk 200gsm",
+    "15": "Silk 450gsm",
+    "16": "Silk 240gsm",
+    "18": "Silk 110gsm"
+    },
+    "2": {
+    "0": "Gloss 90gsm",
+    "2": "Gloss 115gsm",
+    "3": "Gloss 130gsm",
+    "4": "Gloss 150gsm",
+    "5": "Gloss 170gsm",
+    "7": "Gloss 250gsm",
+    "8": "Gloss 300gsm",
+    "9": "Gloss 350gsm",
+    "11": "Gloss 74gsm",
+    "12": "Gloss 104gsm",
+    "13": "Gloss 400gsm",
+    "14": "Gloss 200gsm"
+    },
+    "3": {
+    "100": "Uncoated 90gsm",
+    "104": "Uncoated 150gsm",
+    "105": "Uncoated 170gsm",
+    "107": "Uncoated 250gsm",
+    "108": "Uncoated 300gsm",
+    "109": "Uncoated 350gsm",
+    "111": "Uncoated 100gsm",
+    "112": "Uncoated 120gsm",
+    "113": "Uncoated 200gsm",
+    "116": "Uncoated 80gsm",
+    "119": "Uncoated 110gsm"
+    },
+    "7": {
+    "7001": "Recycled Uncoated 80gsm",
+    "7002": "Recycled Uncoated 170gsm",
+    "7003": "Recycled Uncoated 250gsm",
+    "7004": "Recycled Uncoated 350gsm",
+    "7005": "Recycled Uncoated 300gsm",
+    "7006": "Recycled Uncoated 100gsm",
+    "7007": "Recycled Uncoated 120gsm",
+    "7008": "Recycled Uncoated 135gsm",
+    "7009": "Recycled Uncoated 150gsm",
+    "7010": "Recycled Uncoated 190gsm"
+    },
+    "8": {
+    "8001": "Recycled Natural 80gsm",
+    "8002": "Recycled Natural 170gsm",
+    "8003": "Recycled Natural 250gsm",
+    "8005": "Recycled Natural 300gsm",
+    "8006": "Recycled Natural 115gsm",
+    "8007": "Recycled Natural 100gsm",
+    "8008": "Recycled Natural 135gsm"
+    },
+    "11": {
+    "11001": "Postcard Board 280gsm",
+    "11002": "Postcard Board 350gsm",
+    "11003": "Postcard Board 300gsm"
+    },
+    "45": {
+    "45003": "Recycled Silk 100gsm",
+    "45004": "Recycled Silk 115gsm",
+    "45005": "Recycled Silk 130gsm",
+    "45006": "Recycled Silk 150gsm",
+    "45007": "Recycled Silk 170gsm",
+    "45008": "Recycled Silk 200gsm",
+    "45009": "Recycled Silk 250gsm",
+    "45010": "Recycled Silk 300gsm",
+    "45011": "Recycled Silk 350gsm"
+    },
+    "55": {},
+    "56": {
+    "55000": "Polyester 260gsm"
+    },
+    "57": {
+    "60000": "Créme 74gsm",
+    "60001": "Créme 80gsm",
+    "60002": "Créme 70gsm",
+    "60003": "Créme 90gsm"
+    },
+    "59": {
+    "62000": "Matt 74gsm",
+    "62001": "Matt 104gsm"
+    },
+    "60": {
+    "63000": "Uncoated Natural 80gsm",
+    "63001": "Uncoated Natural 90gsm"
+    },
+    "64": {
+    "64000": "Grass Paper 95gsm"
+    },
+    "65": {
+    "65000": "Neon Paper 68gsm",
+    "65001": "Neon Paper 80gsm"
+    },
+    "66": {
+    "66000": "Paper 70gsm",
+    "66001": "Paper 80gsm",
+    "66002": "Paper 85gsm",
+    "66003": "Paper 90gsm"
+    },
+    "67": {
+    "67000": "Recyled Paper 90gsm"
+    },
+    "68": {
+    "68000": "Temperature Resistant Paper 80gsm"
+    },
+    "69": {
+    "69000": "Handmade Paper 80gsm",
+    "69001": "Handmade Paper 90gsm"
+    },
+    "70": {
+    "70000": "Stone Paper 144gsm"
+    },
+    "71": {
+    "71000": "Sugar Cane Fibre Paper 90gsm"
+    },
+    "72": {
+    "72000": "Vinyl 50gsm",
+    "72001": "Vinyl 60gsm",
+    "72002": "Vinyl 70gsm",
+    "72003": "Vinyl 80gsm",
+    "72004": "Vinyl 90gsm",
+    "72005": "Vinyl 95gsm",
+    "72006": "Vinyl 135gsm",
+    "72007": "Vinyl 150gsm"
+    },
+    "73": {
+    "73000": "Biodegradeable Vinyl 45gsm"
+    },
+    "74": {
+    "74000": "Extremely Adhesive Vinyl 60gsm"
+    },
+    "75": {
+    "75000": "Removable Vinyl 60gsm"
+    },
+    "78": {
+    "78001": "E-Photo Silk Lustre 190gsm",
+    "78002": "E-Photo Silk Lustre 260gsm"
+    },
+    "79": {
+    "79001": "Archival Matt 240gsm"
+    },
+    "80": {
+    "80001": "Archival Uncoated 300gsm"
+    },
+    "81": {
+    "81001": "Archival Textured Matt 240gsm"
+    }
+    },
+    "shops": {
+    "572c7409b3f30a0752a5f9a6": "Micropress (GB)",
+    "5cf7b253effd5f02a43ac7a2": "Mixam (AU)",
+    "5cf7aeaeeffd5f02a43ac7a1": "Mixam (CA)",
+    "63f49e1b2ce03718ed883c6b": "Mixam (DE)",
+    "56b3c7235e1cc70ad83d3e0e": "Mixam (GB)",
+    "5a45088e697df11c10709c21": "Mixam (US)",
+    "5c9674c6697df162615449b1": "Mixam Cloud (GB)",
+    "5f98203cd46d75224b02f41c": "PrintMX (GB)"
+    },
+    "allShopSuppliers": {
+    "Mixam Cloud(GB)": {},
+    "Micropress(GB)": {
+    "543a7b91e4b0b9f590f9ce68": "Micropress"
+    },
+    "Mixam(GB)": {
+    "5b6db49fd46d75056900784d": "Bluetree",
+    "60c89ae9b69bf0cbb8723384": "CPI Antony Rowe (HQ)",
+    "60c89ab3b69bf0cbb872306f": "CPI Antony Rowe (LQ)",
+    "5e299d56c3d56d20ed6ea7e6": "Charlesworth Press",
+    "54ff2bf6e4b0c38cdc1c3073": "ESP Colour",
+    "5dc15f47c3d56d03b476caf6": "ESP Colour Litho",
+    "626965a5674cbd86f4d3405f": "ESP POD",
+    "59b5491e697df13d6d03f9b6": "Flyeralarm",
+    "54a9bba412080587a82000a8": "Other Suppliers",
+    "6523dfee1a88fd57ec648e89": "PixartPrinting (DO NOT USE)",
+    "5787f639b73985056b6b0251": "Precision Proco",
+    "5bbca738d46d75037d694969": "Print Evolved",
+    "65bb906fd380971eebe9c00b": "PrintForce",
+    "5a6f929c697df12d771d1e42": "Printed.com",
+    "5f575e9bd46d75047b53b2c1": "Testing Supplier",
+    "58baf34c697df1b04b410083": "TradePrint"
+    },
+    "Mixam(CA)": {
+    "61f0011fe4f6d77238258793": "Charlesworth UK/CA",
+    "5dc17e1fc3d56d03b476cafa": "Cober Canada",
+    "5fd0fdfed46d752fd068ee42": "Custom Colour Canada",
+    "63ce3da2e8d80747749cb52f": "WCD"
+    },
+    "Mixam(US)": {
+    "62174e092357d3b8ba9ad3be": "Blooming Color",
+    "61a5010b1da367601c2feb1a": "Charlesworth UK/US",
+    "5bdb67bd697df102c82d7c94": "Cober",
+    "5e6b73aec3d56de965012d85": "Custom Colour US",
+    "633ebf834832db0ebc8b8c8b": "DPI",
+    "5a457aca697df11c10709c24": "District Photo",
+    "62de9a218bc4d0378b4b80f9": "Documation",
+    "620d33202357d3b8bae945ac": "Documation",
+    "6214bd7b2357d3b8ba1ec8f4": "ESP US Litho",
+    "63906ae2affb16477ad199dd": "Entourage Yearbooks",
+    "5d7e0fca697df107051c5761": "Hagg Press",
+    "6406fa4db4cbf6003a49ebbf": "Ignite Graphics",
+    "6303b0cff13bff158ca9321a": "Kodi Collective Print NV",
+    "5ff876d2697df12ab4377e9d": "Linemark",
+    "632ae8d7be5ea38cbdd1b14a": "Marathon Press (DO NOT USE)",
+    "647737086eb3061b368323d7": "Medio Pliego",
+    "64b54fa0c0ed1613ac987d70": "North Star Printing",
+    "6641f966b6da2e26fbb47440": "RPI (DO NOT USE)",
+    "63330be62c9bbf17909a544f": "Relevant Inc",
+    "5eeb8c0c697df124b6570bc2": "Seaway",
+    "5fae798f697df1048a75c581": "Sinalite",
+    "634581528b0fd76fdf9b7315": "Spectra",
+    "61a606c91da367601c68395d": "Stafford Printing",
+    "62977e640331437c673a1c70": "TGI",
+    "65706f9074fe8937602d1cbf": "Taylors FL (Do Not Use)",
+    "65706f58b0bf7973559c6ad5": "Taylors GA (Do Not Use)",
+    "65706f0ab0bf7973559c6ac8": "Taylors MN (Do Not Use)",
+    "659677639526d25bb97ebaf2": "Vivar Printing",
+    "6478a1c287a4307187bee6e4": "iTek"
+    },
+    "Mixam(DE)": {
+    "64f0662ad2ff870911ff99ec": "FlyerAlarm",
+    "64ddedea841f904e9b3f6148": "MediaDruckwerk",
+    "64ddeb1e841f904e9b3f60f6": "Mediaprint",
+    "64366bcd7eaa08371959e8c8": "OrwoNet",
+    "63f60a3b0c739e4015ad1389": "Schaetzl DE",
+    "641ae5875139ac1a24327651": "Silber Druck"
+    },
+    "Mixam(AU)": {
+    "5dd566367f3f6843180c0ba3": "CMYK Hub",
+    "5cf9703f776fac43617b8241": "Fast Proof Press",
+    "6114f7cd780678a4ebbcf299": "Ingram AU",
+    "652e58ae7853f415f3158c9f": "KHL Printing",
+    "5dfa059c697df16e4644bc87": "PMI Corp.",
+    "5ff883e5697df12ab4377eaa": "Photo Create (DO NOT USE)",
+    "602d4172771f6baba3591fb1": "Rawson Print"
+    },
+    "PrintMX(GB)": {
+    "612f621563e0156496734b6c": "ESP Colour (PMX)",
+    "612f62fa63e01564967366aa": "ESP Colour Litho (PMX)"
+    }
+    },
+    "allShopMachines": {
+    "Mixam Cloud(GB)": {
+    "5c2e5477697df1042b46dcb7": "B2D-SOL (null)",
+    "5c2e5f3d697df1042b46dcbc": "SOL (null)",
+    "5c2e9df3697df1042b46dcbe": "SWIFT-OFFSET (null)",
+    "5c2e5371697df1042b46dcb3": "US-B2-B (null)",
+    "5c2e53b0697df1042b46dcb4": "US-B3D-H (null)",
+    "5c2e53f7697df1042b46dcb5": "US-B3D-HB (null)"
+    },
+    "Micropress(GB)": {
+    "60abb697b8ad8203157487be": "B1-AM (null)",
+    "56bb969d5e1cc72fed9ce612": "B1-E (null)",
+    "56bb969d5e1cc72fed9ce614": "B3-E (null)",
+    "5752b0cbdcba0f32952a73fb": "B3D-H (null)",
+    "624aa97be737ef5f4dffb184": "B3D-M (B3D-M Micropress Digital Machine)"
+    },
+    "Mixam(GB)": {
+    "5f85aa69c3d56d3f19066552": "B1-BCH (Charlesworth B1 Litho Machine)",
+    "5ed7945c697df1048e3f2358": "B1-ES (ESP B1 Litho Machine)",
+    "6523e1031a88fd57ec648ebf": "B1-PX (Pixart B1 Litho Machine)",
+    "644a5a0ab9302871e00f92c6": "B1-TP (B1-TP Tradeprint Litho Machine)",
+    "6487177721f6032e66e2fcb7": "B1-TP-FF (Tradeprint Flat Items B1 Litho)",
+    "61bc9e83db2fe321509b1d0a": "B2-BBB (Bishops B2-BB)",
+    "5f60cf4cd46d75047b53b2c6": "B2-ES (ESP B2 Litho Machine)",
+    "616048136810b6546dda6035": "B2-ES-J (B2-ES JDP)",
+    "624b085ce737ef5f4dffbd7e": "B2D-CH (B2D-CH Charlesworth Digital Machine)",
+    "643662f17eaa08371959e776": "B2D-PC (B2D-PC Printed.Com)",
+    "5787ec115e1cc706c0448e01": "B2D-PR (Precision Proco B2D)",
+    "6523e12d1a88fd57ec648ec6": "B2D-PX (Pixart B2 Digital Machine B2D-PX)",
+    "5f75b441effd5f1c6b1ddfe7": "B3-CN-ES (B3 Canon ESP)",
+    "5e299bc5c3d56d20ed6ea7e5": "B3D-BCH (Charlesworth digital book machine)",
+    "61e185a77a517b2a90b2b4d3": "B3D-BVR (Print Evolved Digital Book Machine)",
+    "56bb969f5e1cc72fed9ce624": "B3D-H (JDP B3 Indigo)",
+    "577d4b8db73985371e59aff1": "B3D-HB (null)",
+    "5ae1bfd3eba316062a6d1f18": "B3D-HL (null)",
+    "62948dbd0331437c67a68a3b": "B3D-NBCH (Charlesworth Note Book Machine)",
+    "6548d8d1ded8ec0b57a46755": "B3D-PR (Precision Proco B3 Digital Machine)",
+    "65392ced175812698e31e50b": "B3D-S (B3D-S Severn B3D Digital Machine)",
+    "644a59e5b9302871e00f92bc": "B3D-TP (B3D-TP TradePrint B3)",
+    "6487132f21f6032e66e2fc3d": "B3D-TP-FF (Tradeprint Digital Flat Items)",
+    "5f905095d46d75224b02f41a": "B3D-V (Print Evolved - Main machine)",
+    "616048dd6810b6546dda6046": "B3D-V-ES (B3D-V-ES ESP)",
+    "60c8d2c4b69bf0cbb87c806a": "B3M-L (CPI HQ)",
+    "60c8d28cb69bf0cbb87c794f": "B3M-S (CPI LQ)",
+    "627d2214a91998b552d94371": "B3M-SVN (Severn)",
+    "623c5cd75f64f4233b6709b7": "BLT-D (Bluetree Digital)",
+    "5b7bfbd7d46d750569007850": "CAL-3D (Calendar printer)",
+    "5bbdd357d46d75037d69496f": "CAL-VR (Print Evolved Calendar Machine)",
+    "6627877e2087259081b6bcab": "ES-POD-I (ESP POD Canon iX)",
+    "604a4cfc85ce6e1f35112e27": "ESP-C (ESP - Canon Colorado UVgel)",
+    "62b036676aed59f92b34ff0f": "ESP-LFP (ESP Large Format Posters)",
+    "5f6e0b94effd5f1c6b1ddfe2": "FAD (FlyerAlarm Digital)",
+    "5bead460d46d750269552d73": "LAY-VR (Print Evolved Layflat machine)",
+    "5d89ff32c3d56d4f016796a1": "P2D-BK (print2demand book printing)",
+    "65c0e6282f454ac28c99b804": "PF-HQ (PrintForce HQ Machine)",
+    "65e5f065d2947f17bc6cef8d": "PF-IQ (PrintForce IQ Machine)",
+    "5a6f915c697df12d771d1e41": "PRT (printed - mixam)",
+    "6269230d674cbd86f4aa4825": "TRP-D (Trade Print)",
+    "64187fc06a4075a4bb7e20a2": "VR-POD (Print Evolved POD)"
+    },
+    "Mixam(CA)": {
+    "5d9b0309d46d757fdd67d3a1": "CA-B1-A (Test machine)",
+    "61efff0bdb351545e438116f": "CA-B1-BCH (Charlesworth Litho Book Machine)",
+    "61f971a1c2c1ba6d98cb1368": "CA-B1-CB (Cober B1 Litho Machine)",
+    "62f4e764c7ef4361207341f7": "CA-B1-CBN (Cober B1 Plate To Unit Machine)",
+    "5db9eacb697df112f5011745": "CA-B2D-CB (Cober B2 Indigo)",
+    "64c9236852817f52f1bc16c3": "CA-B2D-HC (CustomColour B2 digital Canada)",
+    "63ce3e1ce8d80747749cb545": "CA-B2D-WCD (WCD B2 Digital)",
+    "61efff35db351545e4381182": "CA-B3D-BCH (CA Charlesworth Digital Book Machine)",
+    "61c08e23db2fe321509b3a54": "CA-B3D-CB (Cober B3 Digital)",
+    "5da5cd71effd5f0de54828b5": "CA-B3D-H (District Photo)",
+    "5daf7489697df13cd71a0671": "CA-B3D-HB (District)",
+    "5fd0fc40d46d75238101639b": "CA-B3D-HC (CustomColour B3 digital Canada)",
+    "651ee513ff7b4dde0266a4b2": "CA-CC-LF (Custom Color LayFlat Machine)"
+    },
+    "Mixam(US)": {
+    "64e61d097c77cf4f8d4c3fcd": "DBPRT (BookBaby)",
+    "6641fac1b6da2e26fbb47466": "RP-POD (RPI POD Machine)",
+    "6062f280ede46948ac7570ba": "SOL-A (Azar SOL machine)",
+    "62a1c5328f0bd70dcdac8b5f": "SOL-HG (Hagg Press SOL Machine)",
+    "6345821a8b0fd76fdf9b7355": "SOL-SP (Spectra SOL Machine)",
+    "618a486d93b4342b0b171ce6": "SOL-SS (Sun Solutions SOL Machine (Flat Products))",
+    "618cec2593693a1490699ba2": "SOL-SW (Seaway SOL Machine)",
+    "5cd40bcb697df19ebd033efb": "SWIFT-FLAT (Swift Flat Offset Machine)",
+    "5b5add39d46d750569007844": "US-B1-A (B1 Base Machine)",
+    "642553fb3130180f8cd05051": "US-B1-AP (Allied Printing B1 Plate To Unit Machine)",
+    "61e6d81fcda4236715bb55f2": "US-B1-BCH (Charlesworth Litho Book Machine)",
+    "611d3325ada0ce60b6945019": "US-B1-BN (BND B1 Machine)",
+    "61e1a92e7a517b2a90b2bbbe": "US-B1-CB (Cober B1 Litho Machine)",
+    "62f4dfb8c7ef436120734117": "US-B1-CBN (Cober B1 Plate To Unit Machine)",
+    "63578e36a7f5236feb6fa486": "US-B1-DP (DPI B1 Litho Machine)",
+    "6214bc9af542961812ddbd4f": "US-B1-ES (ESP US B1 Machine)",
+    "63b4046a229a6d6d6d2d6bc3": "US-B1-HG (Hagg B1)",
+    "63c969a04a51ef52a235fe01": "US-B1-HJ (Herff Jones B1 Plate To Unit Machine)",
+    "6478a0c887a4307187bee69d": "US-B1-ITEK (iTek Machine)",
+    "640f2d7f09afe077982768c3": "US-B1-JS (Jostens B1 Machine)",
+    "64b552fd333217254c498ca8": "US-B1-NS (North Star B1 Litho Machine)",
+    "64f9bc27c77d5e18d7ca168e": "US-B1-NSN8 (North Star B1 Litho Machine (Non Signatures of 8))",
+    "64f1e9d66a13214f5257b7a2": "US-B1-NSS (North Star Special B1 Litho Machine)",
+    "64f9bc4ec77d5e18d7ca16a0": "US-B1-NSSN8 (North Star Special B1 Litho Machine (Non Signatures of 8))",
+    "6144bf2a869c88ea9d8fae6b": "US-B1-R (Rami's testing machine)",
+    "6345829a8b0fd76fdf9b737b": "US-B1-SP (Spectra B1 Litho Machine)",
+    "64b66187333217254c49be85": "US-B1-SP-FF (Spectra B1 Litho Machine For Flat Items)",
+    "611e7bafada0ce60b6946501": "US-B1-SS (Sun Solutions)",
+    "6310cf4385dc6565f1923588": "US-B1-SW (Seaway B1 Litho Machine)",
+    "64e5d1216ed5fd760ac861f6": "US-B1-TPA (TPA Korea offshore printing)",
+    "6596778943201f0936635fb0": "US-B1-VP (Vivar Litho Book Machine)",
+    "63c7f0c62a95a118c924a66a": "US-B1-WW (Walsworth B1 Plate To Unit Machine)",
+    "5f7b21c5effd5f1c6b1ddff1": "US-B1N-HB (B1 Book printing machine alla Print Ninja)",
+    "63b589e52383934a818299ef": "US-B2D-AC (AccuLink B2 Digital US)",
+    "621770b3eb70061883a953e2": "US-B2D-BL (Blooming Color B2 Digital US)",
+    "61c07b8fdb2fe321509b38fb": "US-B2D-CB (Cober B2 Indigo)",
+    "6303b38527433218b812321f": "US-B2D-DL (DL/Kodi 12K Digital B3)",
+    "6303baa627433218b81232f2": "US-B2D-DLK (DL/Kodi Konica Digital B3)",
+    "62de9a60413ab108d17016bc": "US-B2D-DOC (Documation B2 Digital US)",
+    "633ed600bf0eac38f51814cc": "US-B2D-DPI (DPI B2 Digital Machine)",
+    "64c923c152817f52f1bc16db": "US-B2D-HC (CustomColour B2 digital US)",
+    "6406fad792f1c36478fc4a17": "US-B2D-IG (Ignite Graphics B2 Digital US)",
+    "6478a0f087a4307187bee6af": "US-B2D-ITEK (iTek B2 Indigo)",
+    "640f2d6709afe077982768b8": "US-B2D-JS (Jostens B2 Indigo)",
+    "5ff87384697df12ab4377e9b": "US-B2D-L (Linemark B2 digital US)",
+    "647739ee6eb3061b3683240c": "US-B2D-MEPL (Medio Pliego B2 Digital)",
+    "6409e424c53e3335250ac076": "US-B2D-PBS (PrintBindShip B2 Indigo)",
+    "629debf78a776a349439a476": "US-B2D-SCH (US-B2D-SCH Schaetzl)",
+    "633edbccbf0eac38f51814d7": "US-B2DE-DPI (DPI EPM B2 Digital Machine)",
+    "63906be6c352e44fe8ba834b": "US-B3-CN-EE (Entourage Eye B3 Canon ESP)",
+    "63b57ad923ad4227da650b79": "US-B3D-AC (AccuLink B3 Digital US)",
+    "61e6cd83cda4236715bb5455": "US-B3D-BCH (US Charlesworth Digital Book Machine)",
+    "62174e97c7b5ed159892f60b": "US-B3D-BL (US-B3D-BL Blooming Color)",
+    "5cac94fb697df19b783bce55": "US-B3D-CB (Cober B3 Indigo)",
+    "6303bd1027433218b8123337": "US-B3D-DL (DL/Kodi 7900 Digital B3)",
+    "633ec57255370d093a9d7bff": "US-B3D-DPI ((DO NOT USE) US-B3D-DPI DPI B3 Digital Machine)",
+    "63906936c352e44fe8ba82e8": "US-B3D-EE (Entourage B3D)",
+    "64b66831333217254c49bf6b": "US-B3D-EE-FAST (Entourage B3D Fast)",
+    "642bde2d58bf38546a33b9c2": "US-B3D-EE-TMP (Entourage B3D Temporary Machine)",
+    "613f7b5379860d6bea89408e": "US-B3D-HB (US-B3D-HB New Pricing)",
+    "618e45b493693a149069b86a": "US-B3D-HBD (B3D-HB DictrictPhoto US)",
+    "5e6b6faec3d56de965012d83": "US-B3D-HC (CustomColour B3 digital US)",
+    "62850170d5691f2f0d732da3": "US-B3D-HCL (CustomColour B3 digital US For Lamination)",
+    "618e414693693a149069b824": "US-B3D-HD (B3D-H DistrictPhoto US)",
+    "618e8d7178c04a726f58894c": "US-B3D-HS (US-B3D-HS Sun Solutions)",
+    "65bbb4c62e66130990c5a761": "US-B3D-IGK (Ignite Graphics Konica B3 Digital US (Inline))",
+    "6478a10c87a4307187bee6c4": "US-B3D-ITEK (iTek B3 Indigo)",
+    "640f2d5109afe077982768a6": "US-B3D-JS (Jostens B3 Indigo)",
+    "647737fc6eb3061b368323ea": "US-B3D-MEPL (Medio Pliego B3 Indigo)",
+    "6331ade558ee8506a96ec00f": "US-B3D-MP (US-B3D-MP Marathon Press)",
+    "6331b05cbc01bf2bc5740cb8": "US-B3D-MPB (US-B3D-MPB Marathon Press Hardcover Book)",
+    "6409e3f8c53e3335250ac063": "US-B3D-PBS (PrintBindShip B3 Indigo)",
+    "633310562c9bbf17909a5525": "US-B3D-RI (US-B3D-RI Relevant Inc)",
+    "633310892c9bbf17909a5537": "US-B3D-RIB (US-B3D-RIB Relevant Inc Hardcover Book)",
+    "61a606ea00fb695ce6c9d634": "US-B3D-SP (US-B3D-SP Stafford Printing)",
+    "6297808f309563144dd628a9": "US-B3D-TGI (TGI B3 Digital US)",
+    "633ed38abf0eac38f51814c1": "US-B3DE-DPI (DPI EPM B3 Digital Machine)",
+    "648075dc70800e4918e3f80b": "US-BL-POD (Blooming Color POD B2 Digital US)",
+    "620d344c2357d3b8bae99453": "US-DOC (Documation US)",
+    "63da66a533e1e0f7d23473f3": "US-DOC-I (Documation Indigo)",
+    "653a2f095834314cd76d3365": "US-EN-HC (Entourage Book With Sewing)",
+    "63e116ca33f66a1646ff5307": "US-LM (Linemark POD Machine)",
+    "64d3950d631ebc94dac80811": "US-LM-LF (Linemark LayFlat Machine)",
+    "5fabc466acf3d6428160cdc1": "US-SIN (Sinalite)",
+    "624c171176ffd89a875f151d": "US-SW-IJ (Seaway Inkjet Machine)",
+    "64523440a1c8c2042edb5558": "US-TAY (Taylor Digital Machine)",
+    "65706ddd1615bd255ff3788e": "US-TAY-FL (Taylor FL Digital Machine)",
+    "65706df21615bd255ff39d6c": "US-TAY-GA (Taylor GA Digital Machine)",
+    "65706db11615bd255ff35355": "US-TAY-MN (Taylor MN Digital Machine)",
+    "63749b99636e2fb663e05bca": "US-TGI-CAL (TGI Calendars)",
+    "62ce7b7e8bc4d0378b74eaf6": "US-TGI-LFP (TGI Large Format Posters)"
+    },
+    "Mixam(DE)": {
+    "65f2d22ee87c4328f41c86dc": "B3D-MP-PHS (B3D-MP-PHS Media Print)",
+    "65f2d28de87c4328f41c8714": "B3D-MP-PHV (B3D-MP-PHV Media Print)",
+    "65f2d1e6e87c4328f41c86c0": "B3D-MP-STS (B3D-MP-STS Media Print)",
+    "65f2d25de87c4328f41c86f8": "B3D-MP-STV (B3D-MP-STV Media Print)",
+    "641ae62d5139ac1a24327671": "DE-B1-SD (Silber Druck B1 Litho Machine)",
+    "64ddee96841f904e9b3f6163": "DE-B2D-MDW (DE-B2D-MDW MediaDruckwerk)",
+    "64ddeba5841f904e9b3f610b": "DE-B2D-MPS (DE-B2D-MPS Media Print)",
+    "64366a917eaa08371959e8bd": "DE-B2D-ORWO (DE-B2D-ORWO)",
+    "63f60a61762b407701875c6a": "DE-B2D-SCH (DE-B2D-SCH Schaetzl)",
+    "64ddef23841f904e9b3f6175": "DE-B3D-MDW (DE-B3D-MDW MediaDruckwerk)",
+    "65e72a248eaadf4ea98b64da": "DE-B3D-MP (DE-B3D-MP Media Print (New))",
+    "64ddec52841f904e9b3f611d": "DE-B3D-MPS (DE-B3D-MPS Media Print)",
+    "644a5861b9302871e00f929c": "DE-B3DIX-SCH (DE-B3DIX-SCH Schaetzl)",
+    "64f06793e5b7ca47c3874a3e": "DE-FLA (FlyerAlarm Germany)"
+    },
+    "Mixam(AU)": {
+    "5cf92212effd5f02a43ac7ad": "AU-B1-A (B1 test machine)",
+    "6113e04912d2dc595b4eb0a4": "AU-B1-F (Fast Proof Press)",
+    "652e6b197853f415f3158e73": "AU-B1-KHL (KHL B1 Litho Machine)",
+    "63b6a3692cc1272e27a13fe9": "AU-B1-R (Rawson B1 Litho)",
+    "63beb23d79160b711a448d95": "AU-B1-TEST (CMYKHub Test Machine)",
+    "602d44fc771f6baba359a968": "AU-B2-R (Rawson B2 Litho)",
+    "655b7a336ce0a1339631ff32": "AU-B2D-F (FPP ProStream 1000)",
+    "652e6d49e2dbd805872d751d": "AU-B2D-KHL (KHL B2D Digital Machine)",
+    "63beb28f79160b711a448da0": "AU-B2D-TEST (CMYKHub B2D Test Machine)",
+    "652e6ca5e2dbd805872d7509": "AU-B3D-KHL (KHL B3D Machine)",
+    "63b6a21b2cc1272e27a13fe0": "B2D-RP (Rawson B2 Digital)",
+    "6475b241db8217646d9dcad2": "B3D-PHC (Photo Create B3D-PHC)",
+    "5dfa0112697df16e4644bc85": "B3D-PMI (PMI)",
+    "5ea2c823697df155412f2646": "B3D-PMI-HB (PMI Hardcover Book Machine)",
+    "63b693e82cc1272e27a13fd5": "B3D-RP (Rawson B3 Digital)"
+    },
+    "PrintMX(GB)": {
+    "61000b9fbea1653504880563": "B1-ES-MX-P (PrintMX B1-ES-MX-P)",
+    "61000b7bbea165350488055a": "B1-ES-P (PrintMX B1-ES-P)",
+    "61000bb8bea1653504880570": "B2-ES-P (PrintMX B2-ES-P)",
+    "61000bdabea1653504880577": "B3-CN-ES-P (PrintMX B3-CN-ES-P Canon ESP)",
+    "61000c02bea165350488058a": "B3D-BCH-EP (PrintMX B3D-BCH-EP)",
+    "61000c1ebea165350488058f": "B3D-HE-P (PrintMX B3D-HE-P)",
+    "61000c38bea1653504880594": "B3D-V-P (PrintMX B3D-V-P)",
+    "60f0390e99503a789dff465a": "CAL-3D (PrintMX CAL-3D Calendar printer)",
+    "61000c52bea165350488059a": "CAL-3D-P (PrintMX CAL-3D-P Calendar printer)",
+    "61000de6e818737719c61185": "ESP-C (PrintMX ESP-C PrintMX)",
+    "62b045196aed59f92b37f63a": "ESP-LFP (ESP Large Format Posters (PMX))",
+    "61000dcbe818737719c61184": "ESP-P (PrintMX ESP-P Posters)"
+    }
+    },
+    "santaTypes": [
+    "QUOTE",
+    "PUBLICATION",
+    "PRINT_ON_DEMAND",
+    "FOURTHWALL"
+    ]
+    }
